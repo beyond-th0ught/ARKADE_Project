@@ -1,0 +1,12 @@
+.info{
+    writing-mode: vertical-lr;
+}
+
+.Second{
+    background-image: url("./assets/02.png");
+    color: "#f5f5f5";
+}
+.Third{
+    background-image: url("./assets/03.png");
+                color: "#f5f5f5"
+}
